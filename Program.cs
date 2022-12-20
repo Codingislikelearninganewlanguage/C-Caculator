@@ -1,5 +1,6 @@
 // See https://aka.ms/new-console-template for more information
-// Open Source Caculator made by codingislikelearninganewlanguage(ahmetguzel2010@outlook.com)
+// Open Source Caculator made by codingislikelearninganewlanguage
+// If you have any questions email me at ahmetguzel2010@outlook.com
 Console.WriteLine("First number please");
 var firstnum = Console.ReadLine();
 Console.WriteLine("Second number please");
